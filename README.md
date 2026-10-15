@@ -25,9 +25,26 @@ A reusable architecture-and-governance metamodel for designing heterogeneous int
 
 **Read it:** [Canonical Cross-System Architectural Metamodel](canonical-metamodel-report.pdf)
 
+### Conversational Reliability in Large Language Models
+
+**A Human-Centered Evaluation Method and Two Documented Cases**
+
+A method for detecting conversational failures in large language models — scope drift, unsupported attribution, unnecessary qualification, and corrections that do not hold. Applied across two frontier models from different vendors, in ordinary task conditions, without advance notice.
+
+**What it covers:**
+
+- A nine-stage evaluation method that uses natural-language interaction as a diagnostic instrument
+- A nine-category failure taxonomy with definitions, examples, and detection procedures
+- Two documented case studies across frontier models from different vendors
+- A root-mechanism hypothesis consistent with both samples
+- A formal test protocol and scoring rubric that make the taxonomy operational
+- An evidence-bounded position: documented and observed, generalization remains to be tested
+
+**Read it:** [Conversational Reliability in Large Language Models](https://ronniesilveirajr.github.io/Portfolio/conversational-reliability-case-study.pdf)
+
 ---
 
-## Focus Areas
+# Focus Areas
 
 - Systems architecture and system-of-systems design
 - AI and intelligent-system architecture
@@ -37,14 +54,13 @@ A reusable architecture-and-governance metamodel for designing heterogeneous int
 - Drift and contradiction analysis
 - Reconciliation and controlled system evolution
 - Strategic systems consulting
-
 ---
 
 ## Positioning
 
 I work at the layer above engineering and modeling: governance, authority, decision rights, and human oversight for intelligent systems. My contribution is governance architecture — the structural conditions that make intelligent systems accountable, traceable, and safe to operate at scale.
 
-The methodology and capabilities documented here sit alongside conventional software engineering, ML, and MLOps practice. They are not a substitute for those disciplines; they are the governance layer that makes them accountable.
+The methodology and case studies documented here sit alongside conventional software engineering, ML, and MLOps practice. They are not a substitute for those disciplines; they are the governance layer that makes them accountable.
 
 ---
 
