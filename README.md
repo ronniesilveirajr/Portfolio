@@ -23,8 +23,7 @@ A reusable architecture-and-governance metamodel for designing heterogeneous int
 - A synthetic worked example and repeatable mapping record
 - An eight-level evidence maturity framework and designed validation program
 
-**Read it:** [Canonical_Cross_System_Architectural_Metamodel_Report.pdf](Canonical_Cross_System_Architectural_Metamodel_Report.pdf)
-
+**Read it:** (https://github.com/ronniesilveirajr/Portfolio/blob/main/Canonical_Metamodel_Report.docx.PDF)
 ---
 
 ## Focus Areas
