@@ -24,7 +24,7 @@ A reusable architecture-and-governance metamodel for designing heterogeneous int
 - An eight-level evidence maturity framework and designed validation program
 
 **Read it:** [Canonical Cross-System Architectural Metamodel](canonical-metamodel-report.pdf)
-```
+
 ---
 
 ## Focus Areas
@@ -50,7 +50,7 @@ The methodology and capabilities documented here sit alongside conventional soft
 
 ## Contact
 
-For employment, contract, or consulting inquiries, please reach out through the contact information on my [Handshake profile](https://joinhandshake.com).
+For employment, contract, or consulting inquiries, please reach out through the contact information on my [Handshake profile](https://app.joinhandshake.com/profiles/8panvc).
 
 ---
 
