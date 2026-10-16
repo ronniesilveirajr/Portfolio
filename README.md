@@ -103,7 +103,7 @@ A constitutional governance framework for institutions whose identity is at risk
 - A four-category amendment framework, a ten-category risk register, and a five-layer succession and continuity architecture
 - Twelve composite measurement instruments with equal-weighted dimensions and defined thresholds
 
-**Read it:** [Citadel: A Constitutional Framework for Preserving Company Identity Through Scale](https://ronniesilveirajr.github.io/Portfolio/Citadel_Constitutional_Framework.pdf)
+**Read it:** [Citadel: A Constitutional Framework for Preserving Company Identity Through Scale](https://ronniesilveirajr.github.io/Portfolio/citadel-constitutional-framework.pdf)
 
 ---
 
