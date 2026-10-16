@@ -61,7 +61,7 @@ A ten-phase methodology that establishes a universal business architecture befor
 - An application path documented through Phase 5 of the ten-phase architecture
 
 **Read it:** [Universal Core Business Blueprint](https://ronniesilveirajr.github.io/Portfolio/universal-core-business-blueprint-report.pdf)
----
+
 
 # Focus Areas
 
