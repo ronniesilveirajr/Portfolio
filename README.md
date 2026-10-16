@@ -25,6 +25,7 @@ A reusable architecture-and-governance metamodel for designing heterogeneous int
 
 **Read it:** [Canonical Cross-System Architectural Metamodel](canonical-metamodel-report.pdf)
 
+
 ### Conversational Reliability in Large Language Models
 
 **A Human-Centered Evaluation Method and Two Documented Cases**
@@ -42,6 +43,24 @@ A method for detecting conversational failures in large language models — scop
 
 **Read it:** [Conversational Reliability in Large Language Models](https://ronniesilveirajr.github.io/Portfolio/conversational-reliability-case-study.pdf)
 
+
+### Universal Core Business Blueprint: A Governance-First Venture Design Methodology
+
+**A reusable architecture for designing AI-native ventures from first principles**
+
+A ten-phase methodology that establishes a universal business architecture before any business-specific decision is made, specializes it for a specific industry, configures it for a specific venture, and advances through defined phases from foundation to launch. Applied to a real venture in a domain outside its original design without modifying the universal core.
+
+**What it covers:**
+
+- A universal architecture of ten divisions, fifty-three departments, an ontology, and non-equivalence laws
+- An Industry Specialization Addendum framework for modular industry requirements
+- A Configured Business Architecture Integration process for mapping universal to specific
+- A ten-phase path from universal foundation through controlled launch
+- A Controlled Autonomy Mode specification for bounded machine execution
+- An evidence discipline preserved throughout the methodology and its application
+- An application path documented through Phase 5 of the ten-phase architecture
+
+**Read it:** [Universal Core Business Blueprint](https://ronniesilveirajr.github.io/Portfolio/universal-core-business-blueprint-report.pdf)
 ---
 
 # Focus Areas
