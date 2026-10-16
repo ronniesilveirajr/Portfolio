@@ -25,6 +25,7 @@ A reusable architecture-and-governance metamodel for designing heterogeneous int
 
 **Read it:** [Canonical Cross-System Architectural Metamodel](canonical-metamodel-report.pdf)
 
+---
 
 ### Conversational Reliability in Large Language Models
 
@@ -43,6 +44,7 @@ A method for detecting conversational failures in large language models — scop
 
 **Read it:** [Conversational Reliability in Large Language Models](https://ronniesilveirajr.github.io/Portfolio/conversational-reliability-case-study.pdf)
 
+---
 
 ### Universal Core Business Blueprint: A Governance-First Venture Design Methodology
 
@@ -62,6 +64,27 @@ A ten-phase methodology that establishes a universal business architecture befor
 
 **Read it:** [Universal Core Business Blueprint](https://ronniesilveirajr.github.io/Portfolio/universal-core-business-blueprint-report.pdf)
 
+---
+
+### Gravitropic: A Human-AI Execution-Governance Architecture
+
+**A fully specified architecture for governing the transition from AI-assisted reasoning to consequential action**
+
+Gravitropic sits between reasoning and consequence. It governs the moment where an AI's output would become real-world action — by verifying operator readiness, validating capability and authority, structuring intent, and enforcing execution gates. The governing law runs through every layer: AI informs. Humans decide. Systems enforce.
+
+**What it covers:**
+
+- A four-layer core stack for human stabilization, capability and authority validation, intent structuring, and execution governance
+- Ten typed governance objects with schema-level definition and dependency chains
+- A synthetic worked example showing a decision moving through the architecture in operation
+- A meta-governance layer for cross-layer conflict resolution and activation ordering
+- A scenario execution engine for runtime orchestration with defined lifecycle states
+- A production consolidation with API-level schemas for five control systems
+- A governed implementation-assurance framework with claim/evidence discipline, maturity enforcement, and refusal as valid output
+- Bounded controlled implementation evidence
+- Applied commercial evidence from produced engagements in anonymized form
+
+**Read it:** [Gravitropic: A Human-AI Execution-Governance Architecture](https://github.com/ronniesilveirajr/Portfolio/blob/main/gravitropic-architecture-report.pdf)
 
 # Focus Areas
 
@@ -73,6 +96,7 @@ A ten-phase methodology that establishes a universal business architecture befor
 - Drift and contradiction analysis
 - Reconciliation and controlled system evolution
 - Strategic systems consulting
+
 ---
 
 ## Positioning
