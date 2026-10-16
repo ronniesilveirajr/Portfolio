@@ -86,6 +86,27 @@ Gravitropic sits between reasoning and consequence. It governs the moment where 
 
 **Read it:** [Gravitropic: A Human-AI Execution-Governance Architecture](https://github.com/ronniesilveirajr/Portfolio/blob/main/gravitropic-architecture-report.pdf)
 
+---
+
+### Citadel: A Constitutional Framework for Preserving Company Identity Through Scale
+
+**An Enterprise Identity Governance Architecture for Institutions That Must Remain Themselves Across Scale, Succession, and Change**
+
+A constitutional governance framework for institutions whose identity is at risk during scale — the moment when language softens, authority blurs, boundaries erode, and decisions stop compounding. It specifies a root proposition, five irreducible characteristics, a thirteen-authority architecture, a five-component verification method with three decision states, and a multi-dimensional capital framework — implemented as a stateful reasoning engine and currently under controlled test.
+
+**What it covers:**
+- A constitutional root proposition and five irreducible characteristics that must remain true for the institution to remain itself
+- A thirteen-authority architecture distributed across two entities with an immutable boundary rule and a formal handoff mechanism
+- A five-component verification method with three formal decision states, multi-factor integrity, and a five-layer audit architecture
+- A four-tier access model and four-tier trust model bound together so that no participant's access exceeds their trust
+- Six categories of institutional capital with threshold requirements, a decision-filter doctrine, and a five-layer precedent registry
+- A four-category amendment framework, a ten-category risk register, and a five-layer succession and continuity architecture
+- Twelve composite measurement instruments with equal-weighted dimensions and defined thresholds
+
+**Read it:** [Citadel: A Constitutional Framework for Preserving Company Identity Through Scale](https://ronniesilveirajr.github.io/Portfolio/Citadel_Constitutional_Framework.pdf)
+
+---
+
 # Focus Areas
 
 - Systems architecture and system-of-systems design
