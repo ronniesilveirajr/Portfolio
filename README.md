@@ -107,6 +107,24 @@ A constitutional governance framework for institutions whose identity is at risk
 
 ---
 
+NAPOLEON: Deterministic Strategic Reasoning in Non-Deterministic Environments
+
+**A governed reasoning architecture for producing stable reasoning records across non-deterministic conditions**
+
+Consequential decisions are typically preserved as outcomes, while the reasoning that produced them is lost. NAPOLEON is a governed reasoning architecture that treats the reasoning record as the primary output. It operates across non-deterministic AI platforms and human decision-makers to structure analysis, enforce verification, and govern the closed-loop return of decision outcomes.
+
+**What it covers:**
+
+* Twelve doctrinal layers (Perception through Strategic Identity) that structure the reasoning capacity
+* An eleven-stage computational layer that converts structured analysis into a governed recommendation
+* A seven-stage integrity verification chain with absolute prohibitions and a permission framework
+* A runtime layer with five mandatory gates that monitors, calibrates, and degrades gracefully over time
+* A closed-loop return architecture that classifies and routes decision outputs as new inputs to the next cycle
+* Two synthetic worked examples demonstrating the architecture in operation (a multi-front strategic decision and emotional calibration)
+* Strict evidence boundaries distinguishing structural specifications from empirically validated properties
+
+Read it: [NAPOLEON: Deterministic Strategic Reasoning](napoleon-strategic-reasoning-architecture.pdf)
+
 # Focus Areas
 
 - Systems architecture and system-of-systems design
