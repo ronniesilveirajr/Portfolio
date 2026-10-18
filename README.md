@@ -107,7 +107,7 @@ A constitutional governance framework for institutions whose identity is at risk
 
 ---
 
-###NAPOLEON: Deterministic Strategic Reasoning in Non-Deterministic Environments
+### NAPOLEON: Deterministic Strategic Reasoning in Non-Deterministic Environments
 
 **A governed reasoning architecture for producing stable reasoning records across non-deterministic conditions**
 
