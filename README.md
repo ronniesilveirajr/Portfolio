@@ -2,9 +2,11 @@
 
 **Governance Architect for Intelligent Systems**
 
-I design the authority structures, decision architectures, and evidence frameworks that keep AI-augmented systems accountable to the humans they serve.
+I architect the structural frameworks, decision rights, and contextual datasets that govern how AI systems interpret complex human intent and execute real-world actions.
 
-This repository holds my public-facing portfolio artifacts. Each document is designed for a hiring-authority audience: hiring managers, contract partners, and consulting clients evaluating capability in systems architecture, AI governance, decision architecture, and controlled system evolution.
+From developing foundational cross-system metamodels to executing hands-on model alignment and preference ranking for frontier platforms, my work spans the full lifecycle of AI governance—evaluating both linguistic nuance and conversational reliability.
+
+This repository holds my public-facing portfolio artifacts. Each document is designed for a hiring-authority audience: hiring managers, contract partners, and consulting clients evaluating capability in AI Systems Architecture, Model Alignment, and Human Ambiguity Translation.
 
 ---
 
