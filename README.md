@@ -48,6 +48,25 @@ A method for detecting conversational failures in large language models — scop
 
 ---
 
+### Human Ambiguity Translation: An Intent Engineering Architecture for Reliable AI Execution
+
+**A human-to-system input architecture for capturing, structuring, and verifying intent before AI execution**
+
+AI systems frequently fail not because of model incapability, but because unstructured human input forces the model to guess, resulting in confident misalignment. This architecture sits at the boundary between human ambiguity and machine execution. It intercepts, structures, and governs human intent, acting as a cognitive translation layer to prevent evidence inflation, contradiction propagation, and model sycophancy.
+
+**What it covers:**
+
+*   A multi-stage Intent Engineering Pipeline that structures human input before AI processing
+*   A Guided Envelope Interface (GEI) that dynamically scales intake friction based on request stakes
+*   A Meaningful Granularity (MG) framework that decomposes strategic intent into actionable dimensions
+*   Six supercategories of intent routing (Knowing, Fixing, Making, Connecting, Expressing, Optimizing) to assign correct cognitive personas
+*   An Epistemic Firewall that classifies claim types (C1–C8) to prevent evidence inflation and hallucination
+*   A persistent User Intelligence Profile (UIP) for cognitive bias calibration and cross-session continuity
+*   A Reflective Diagnostic Protocol (RDP) that surfaces and forces resolution of contradictory goals
+*   Applied evidence from four distinct case studies, including a 33-scenario adversarial multi-model blind test yielding 100% constitutional adherence
+
+Read it: [Human Ambiguity Translation: An Intent Engineering Architecture](human-ambiguity-translation-method.pdf)
+
 ### Universal Core Business Blueprint: A Governance-First Venture Design Methodology
 
 **A reusable architecture for designing AI-native ventures from first principles**
